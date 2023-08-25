@@ -8,7 +8,11 @@ a, a:visited{
     background-color: rgb(6, 49, 59);
 }
 body {
-    background-color: #170277;
-    color: rgb(0, 255, 64);
+    background-color: #0e0630;
+    color: rgb(0, 255, 157);
     font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.blogtext {
+    max-width: 400px
 }
